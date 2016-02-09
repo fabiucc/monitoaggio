@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>it.reply.sytel.monitoraggio</groupId>
+	<artifactId>monitoraggio-user-properties</artifactId>
+	<name>monitoraggio User Properties</name>
+	<packaging>pom</packaging>
+	<version>1.0</version>
+	<properties>
+		<reply.project.monitoraggio.webapp.home>C:/Users/f.bruno/Desktop/workspaceThor/ThorDef/monitoraggio/Front-end/WebApp</reply.project.monitoraggio.webapp.home>
+		<reply.project.monitoraggio.home>C:/Users/f.bruno/Desktop/workspaceThor/ThorDef/monitoraggio</reply.project.monitoraggio.home>
+		<reply.project.monitoraggio.build>E:/War</reply.project.monitoraggio.build>
+	</properties>
+</project>

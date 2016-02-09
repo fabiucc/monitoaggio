@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 03 16:12:12 CEST 2014
+D\:/NFEC/repos/trunk/NfecMon/maven/file_repository/.error=Could not transfer artifact Reply-eXist\:eai_commons\:pom\:1.0 from/to Reply (D\:/NFEC/repos/trunk/NfecMon/maven/file_repository)\: No connector available to access repository Reply (D\:/NFEC/repos/trunk/NfecMon/maven/file_repository) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+default-/repos/trunk/NfecMon/maven/file_repository/.lastUpdated=1395235976226
+D\:/NFEC_Monitoraggio/repos/trunk/NfecMon/maven/file_repository/.error=Could not transfer artifact Reply-eXist\:eai_commons\:pom\:1.0 from/to Reply (D\:/NFEC_Monitoraggio/repos/trunk/NfecMon/maven/file_repository)\: No connector available to access repository Reply (D\:/NFEC_Monitoraggio/repos/trunk/NfecMon/maven/file_repository) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+/NETAPPNFS/pspr/jenkins/apache-tomcat-5.5.36/jobs/NfecMon/maven/file_repository/.error=Could not transfer artifact Reply-eXist\:eai_commons\:pom\:1.0 from/to Reply (/NETAPPNFS/pspr/jenkins/apache-tomcat-5.5.36/jobs/NfecMon/maven/file_repository)\: No connector available to access repository Reply (/NETAPPNFS/pspr/jenkins/apache-tomcat-5.5.36/jobs/NfecMon/maven/file_repository) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Monitoraggio_Ricariche/MonitoraggioRicariche/trunk/RecMon/maven/file_repository/.error=
+D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository/.error=Could not transfer artifact Reply-eXist\:eai_commons\:pom\:1.0 from/to Reply (D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository)\: No connector available to access repository Reply (D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395068467673
+/repos/trunk/NfecMon/maven/file_repository/.error=Could not transfer artifact Reply-eXist\:eai_commons\:pom\:1.0 from/to Reply (/repos/trunk/NfecMon/maven/file_repository)\: No connector available to access repository Reply (/repos/trunk/NfecMon/maven/file_repository) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+default-D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository/.lastUpdated=1395757000590
+file\:${reply.project.nfecmon.home}/maven/file_repository/.lastUpdated=1395136162247
+http\://repo.maven.apache.org/maven2/.error=
+default-/NETAPPNFS/pspr/jenkins/apache-tomcat-5.5.36/jobs/NfecMon/maven/file_repository/.lastUpdated=1395915318004
+file\:${reply.project.nfecmon.home}/maven/file_repository/.error=
+file\:D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository/.error=
+default-D\:/NFEC/repos/trunk/NfecMon/maven/file_repository/.lastUpdated=1395916212187
+file\:D\:/Monitoraggio_Ricariche/MonitoraggioRicariche/trunk/RecMon/maven/file_repository/.lastUpdated=1395412642040
+file\:D\:/RepositorySVN_NFEC/trunk/NfecMon/maven/file_repository/.lastUpdated=1395068467600
+default-D\:/NFEC_Monitoraggio/repos/trunk/NfecMon/maven/file_repository/.lastUpdated=1396534332553
